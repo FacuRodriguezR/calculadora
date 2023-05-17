@@ -96,7 +96,7 @@ button:hover {
 }
 
 button#equal{
-    height: 130px;
+    width: 130px;
 }
 
 /* light theme */
