@@ -60,7 +60,10 @@ body{
     background-color: #333;
     z-index: -1;
 }
-
+.backspace {
+    display: flex;
+   
+}
 #display {
     margin: 0 10px;
     height: 150px;
