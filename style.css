@@ -60,8 +60,9 @@ body{
     background-color: #333;
     z-index: -1;
 }
-.backspace {
+.backspace{
     display: flex;
+    justify-content: flex-end;
    
 }
 #display {
@@ -80,6 +81,10 @@ body{
 #display::-webkit-scrollbar{
     display: block;
     height: 3px;
+}
+
+table{
+    display: flex;
 }
 
 button{
